@@ -1,0 +1,8 @@
+{
+  "name": "Noordermatch Recruitment Portal",
+  "description": "A high-end recruitment agency portal for connecting professionals and companies in Northern Netherlands, featuring an AI career assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
